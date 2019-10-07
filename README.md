@@ -1,4 +1,4 @@
-# ![alt text][logo]
+# ![logo]
 
 A learning tool
 
@@ -20,4 +20,6 @@ https://www.figma.com/file/dTRGLxPvByIflINh2GQJTu/Surveillance-Analyst-Simulator
 
 `yarn start`
 
-[logo]: ./public/img/small-logo.png "Logo Title Text 2"
+<!-- Variables -->
+
+[logo]: ./public/img/small-logo.png
