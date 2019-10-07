@@ -1,0 +1,13 @@
+{
+  "name": "shiv",
+  "version": "1.0.0",
+  "description": "A learning tool",
+  "main": "dist/index.js",
+  "repository": "https://github.com/joshtsch/shiv.git",
+  "author": "Josh Tscheschlog <jtscheschlog\n@kbra.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "typescript": "^3.6.3"
+  }
+}
