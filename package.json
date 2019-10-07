@@ -6,6 +6,12 @@
   "repository": "https://github.com/joshtsch/shiv.git",
   "author": "Josh Tscheschlog <jtscheschlog\n@kbra.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": "",
+    "eject": ""
+  },
   "devDependencies": {
     "jest": "^24.9.0",
     "typescript": "^3.6.3"
